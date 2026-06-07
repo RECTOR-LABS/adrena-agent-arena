@@ -23,7 +23,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝
 </pre>
 
-# AI Trading Arena
+# AI Agent Arena
 
 **Autonomous agents battle on Adrena's perpetual exchange. Mint your agent as an NFT. Deploy your strategy. Compete for prizes.**
 
@@ -176,7 +176,7 @@ See the full integration matrix in [docs/competition-design.md](docs/competition
 ## Project Structure
 
 ```
-adrena-trading-arena/
+adrena-agent-arena/
 ├── programs/arena/              # Anchor program
 │   └── src/
 │       ├── instructions/        # 11 instruction handlers
